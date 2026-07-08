@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1098529653527",
+    "firebase_url": "https://testiot-b6f12-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testiot-b6f12",
+    "storage_bucket": "testiot-b6f12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098529653527:android:ccfd32592e2ced615a6d52",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq2OygsvamuAHh_uO7Y0wcrIs11XaQyRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
